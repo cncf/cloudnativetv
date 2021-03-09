@@ -36,8 +36,8 @@ projects and share news related to the group's mission and charter.
 
 ### SIG Chairs
 
+- Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
-- Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove))
 
 ### Program Oversight Committee
 
