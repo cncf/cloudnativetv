@@ -1,4 +1,4 @@
-# CNCF SIG <T>
+# CloudNative.TV <T>
 
 SIG <T> is responsible for:
 
