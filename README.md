@@ -36,9 +36,10 @@ projects and share news related to the group's mission and charter.
 
 ### SIG Chairs
 
-TBC
+- POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
+- Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove))
 
-### TOC Liaisons
+### Program Oversight Committee
 
 TBC
 
