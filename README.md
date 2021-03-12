@@ -1,4 +1,5 @@
-# CloudNative.TV <T>
+<p align="left"><img src="cloud-native-tv-logo.svg" width="360"></p># CloudNative.TV <T>
+  
 
 SIG <T> is responsible for:
 
