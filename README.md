@@ -49,6 +49,7 @@ TBC
 ### Bootstrap SIG members
 
 - David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
+- POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 ## Working Groups
 
 ### Cloud Native TV
