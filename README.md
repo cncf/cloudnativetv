@@ -50,6 +50,7 @@ TBC
 
 - David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
+- Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 ## Working Groups
 
 ### Cloud Native TV
