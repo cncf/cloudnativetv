@@ -52,6 +52,7 @@ TBC
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Cloud Native Architects
+- Matt Stratton ([@mattstratton](https://github.com/mattstratton)), Pulumi
 
 ## Working Groups
 
