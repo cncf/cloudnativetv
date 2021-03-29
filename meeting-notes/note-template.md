@@ -1,11 +1,16 @@
 # CloudNative.TV Working Group *DATE* 
 
-🤹 ## Facilitator : 
+🤹 
+##Facilitator : 
 
-✏️ ## Scribe:
+✏️ 
+## Scribe:
 
-🧑‍🤝‍🧑 ## Who joined:
+🧑‍🤝‍🧑 
+## Who joined:
 
-:dart: ## Agenda:
+:dart: 
+## Agenda:
 
-🗒️## Notes: 
+🗒️## 
+Notes: 
