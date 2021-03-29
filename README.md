@@ -5,7 +5,7 @@
 
 SIG <T> is responsible for:
 
-- ?
+- Become the definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
 
 The [SIG <T> charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
