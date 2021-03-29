@@ -2,10 +2,10 @@
 
 ## Facilitator : 
 
-## Scribe:
+✏️ ## Scribe:
 
-## Who joined:
+🧑‍🤝‍🧑 ## Who joined:
 
-## Agenda:
+:dart: ## Agenda:
 
-## Notes: 
+🗒️## Notes: 
