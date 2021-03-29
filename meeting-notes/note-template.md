@@ -1,6 +1,6 @@
 # CloudNative.TV Working Group *DATE* 
 
-## Facilitator : 
+🤹 ## Facilitator : 
 
 ✏️ ## Scribe:
 
