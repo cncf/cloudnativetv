@@ -49,6 +49,7 @@ projects and share news related to the group's mission and charter.
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Cloud Native Architects
 - Anais Urlichs ([@AnaisUrlichs](https://github.com/AnaisUrlichs)), Codefresh
+- Matt Stratton ([@mattstratton](https://github.com/mattstratton)), Pulumi
 
 ## Working Groups
 
