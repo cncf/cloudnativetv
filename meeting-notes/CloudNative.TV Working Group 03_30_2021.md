@@ -13,6 +13,7 @@
 - David McKay ([@rawkode](https://github.com/rawkode))
 - Kaslin Fields
 - Matt Stratton ([@mattstratton](https://github.com/mattstratton))
+- Tim Banks
 
 ## Agenda:
  - Schedule -- Discuss Post Kubecon Launch and why we are delaying.
