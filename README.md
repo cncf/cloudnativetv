@@ -56,6 +56,7 @@ projects and share news related to the group's mission and charter.
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Cloud Native Architects
 - Anais Urlichs ([@AnaisUrlichs](https://github.com/AnaisUrlichs)), Codefresh
 - Matt Stratton ([@mattstratton](https://github.com/mattstratton)), Pulumi
+- Saiyam Pathak ([@saiyam1814](https://github.com/saiyam1814)), Civo
 
 ## Working Groups
 
