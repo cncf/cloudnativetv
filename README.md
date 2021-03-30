@@ -29,7 +29,7 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 - Show Guide
 - Show Selection Process
 - Twitch Operations Guidelines
-- Metrics
+- [Metrics](./metrics.md)
 - Archived Content
 
 ## Communicating with Us
