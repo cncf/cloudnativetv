@@ -48,6 +48,7 @@ projects and share news related to the group's mission and charter.
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Cloud Native Architects
+- Anais Urlichs ([@AnaisUrlichs](https://github.com/AnaisUrlichs)), Codefresh
 
 ## Working Groups
 
