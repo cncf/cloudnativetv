@@ -42,10 +42,6 @@ projects and share news related to the group's mission and charter.
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 
-### Program Oversight Committee
-
-TBC
-
 ### Bootstrap SIG members
 
 - David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
