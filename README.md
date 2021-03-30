@@ -2,8 +2,7 @@
 
 # CloudNative.TV <T>
   
-
-SIG <T> is responsible for:
+The definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
 
 - ?
 
