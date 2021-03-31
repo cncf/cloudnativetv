@@ -2,7 +2,7 @@
 
 # CloudNative.TV <T>
   
-The definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
+The CNCF's definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
 
 
 - [CNCF SIG <T>](#cncf-sig-t)
