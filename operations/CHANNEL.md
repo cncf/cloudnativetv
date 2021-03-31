@@ -32,6 +32,6 @@ Become the definitive interactive media experience for anyone wanting to learn, 
 
     * TODO: Add overview of Catchup and how to use it
 
-    * Programming requirements
+* Programming requirements
 
-    * TODO: Example Schedule
+* TODO: Example Schedule
