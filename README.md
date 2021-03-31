@@ -30,10 +30,9 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 
 ## CloudNative.TV Operations
 - [Scheduling](https://github.com/cncf/cloudnativetv/blob/main/scheduling.md)
-- Channel Guide (/CHANNEL.md)
-- Show Guide
-- Show Selection Process
-- Twitch Operations Guidelines
+- [Channel Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/CHANNEL.md)
+- [Show and Twitch Operations Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/SHOW.md)
+- [Show Selection Process](https://github.com/cncf/cloudnativetv/blob/main/operations/SUBMISSION.md) 
 - [Metrics](./metrics.md)
 - Archived Content
 
