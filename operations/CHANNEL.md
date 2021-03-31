@@ -20,17 +20,9 @@ Become the definitive interactive media experience for anyone wanting to learn, 
 
 * We should provide an amazing place for hosts, speakers, and guests to safely foster and build their own brand here, including helping them find their identity within the community.
 
-## Metrics
-
-* Twitch Metrics
-* Chat activity, Concurrent Viewers, Follows, Max Concurrent Viewers, Time broadcast, Time watched, Unfollowed, Unique Visitors, Video Plays
-
-* Youtube Metrics
-* Subscribers, per show views, etc
-
 ## Scheduling 
 
-    * TODO: Add overview of Catchup and how to use it
+* TODO: Add overview of ClickUp and how-to video
 
 * Programming requirements
 
