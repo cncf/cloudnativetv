@@ -29,9 +29,3 @@
 - Streamyard
 - Others?
 
-**Archived Content (Youtube)**
-
-- How do we handle archived content? (handoff to contractor)
-- Opening/Closing
-- Packaging
-- Timelines
