@@ -61,7 +61,7 @@ projects and share news related to the group's mission and charter.
 
 ### Cloud Native TV
 
-[Charter](/wg-tv/README.md)
+[Charter] Get :shit: done
 
 Facilitators:
 
