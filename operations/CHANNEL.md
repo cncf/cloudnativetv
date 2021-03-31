@@ -18,7 +18,7 @@ Become the definitive interactive media experience for anyone wanting to learn, 
 
 * Be respectful of subscribers!
 
-    * We should provide an amazing place for hosts, speakers, and guests to safely foster and build their own brand here, including helping them find their identity within the community.
+* We should provide an amazing place for hosts, speakers, and guests to safely foster and build their own brand here, including helping them find their identity within the community.
 
 ## Metrics
 
