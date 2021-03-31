@@ -1,9 +1,9 @@
 # Show Guide
 
-- Showrunner is responsible for content/guests
+- Showrunner is responsible for all content/guests
 - PG-13
 - 30-60 Minute Slots
-- Callouts at beginning and end of show, e.g., &quot;Make sure to follow cloudnative.tv on Twitch and enable notifications to be reminded when we&#39;re live!&quot;
+- Callouts at beginning and end of show, e.g., "Make sure to follow CloudNative.tv on Twitch and enable notifications to be reminded when we're live!"
 
 **Twitch Operations Guidelines**
 
