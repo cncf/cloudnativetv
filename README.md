@@ -72,3 +72,4 @@ projects and share news related to the group's mission and charter.
 Facilitators:
 
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
+- Kat Cosgrove (@katcosgrove) , jfrog
