@@ -22,13 +22,11 @@ Become the definitive interactive media experience for anyone wanting to learn, 
 
 ## Metrics
 
-    * Twitch Metrics
+* Twitch Metrics
+* Chat activity, Concurrent Viewers, Follows, Max Concurrent Viewers, Time broadcast, Time watched, Unfollowed, Unique Visitors, Video Plays
 
-        * Chat activity,Concurrent Viewers,Follows,Max Concurrent Viewers,Time broadcast,Time watched, Unfollowed, Unique Visitors, Video Plays
-
-    * Youtube Metrics
-
-        * Subscribers, per show views, etc
+* Youtube Metrics
+* Subscribers, per show views, etc
 
 ## Scheduling 
 
