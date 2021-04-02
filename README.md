@@ -56,6 +56,7 @@ projects and share news related to the group's mission and charter.
 - Matt Stratton ([@mattstratton](https://github.com/mattstratton)), Pulumi
 - Saiyam Pathak ([@saiyam1814](https://github.com/saiyam1814)), Civo
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
+- Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
 
 ## Working Groups
 
