@@ -27,4 +27,4 @@
     - Anais -  Intro to 100 days CNCF!
     - Saiyam - Cert Scenario (@bill to look into perhaps a discount code.)
     - Kat - Vincent Batts (Notary)
-    - POP - Post Kubecon Show
+    - POP - Post Kubecon Show  (augustus/TBD Constrance)
