@@ -1,0 +1,5 @@
+headshots/rawkode.png filter=lfs diff=lfs merge=lfs -text
+headshots/Mulligan_headshot.jpg filter=lfs diff=lfs merge=lfs -text
+headshots/headshots.md filter=lfs diff=lfs merge=lfs -text
+headshots/leonardo.jpg filter=lfs diff=lfs merge=lfs -text
+headshots/pop.jpg filter=lfs diff=lfs merge=lfs -text
