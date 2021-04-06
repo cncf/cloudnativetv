@@ -1,9 +1,28 @@
 # Show Guide
 
-- Showrunner is responsible for all content/guests
-- PG-13
-- 30-60 Minute Slots
-- Callouts at beginning and end of show, e.g., "Make sure to follow CloudNative.tv on Twitch and enable notifications to be reminded when we're live!"
+**Showrunner Guide**
+
+*   **Content Guidelines and Recommendations**
+    *   Showrunner is responsible for the creation of all **original content** as well as for coordinating the participation of all guests.
+    *   The showrunner should reinforce the Cloud Native TV brand as well as call out for Cloud Native TV subscription including notifications throughout the show at least three times during each stream (at the beginning, middle and end of the show)
+    *   The showrunner should refer to the next show in the schedule at the end of his or her show.
+    *   Sample scripts will be provided by the Cloud Native TV maintainers for reference of callouts, brand reinforcement and show references.
+    *   <span style="text-decoration:underline;">Content Recommendations</span>
+        *   **Engage your audience**. Respond, welcome and encourage discussion in the chat. Make everyone feel welcome.
+        *   **Use tools to make your audience participate**. Use polls, contents and other dynamic tools (eg. Mentimeter) to promote the participation of the audience, do not restrict interaction to chat, not everybody will feel comfortable with it.
+        *   **Be your best self**. Your audience is there to get to know you, be honest to yourself and **have fun**. Theres no better way to stand out from the crowd.
+        *   **Create a scene**. Work on your camera frame and scenery, use lighting, props, camera angles and visual elements to communicate and capture the attention of your audience.
+        *   **Explore media**. Use music, animations, video or illustrations as part of your stream, leverage media to energize and strengthen what you are looking to communicate and as a feedback mechanism to your audience.
+        *   **Be deliberate, practice**. The beauty of a stream is the live, improvised and flowing experience, but that doesnt mean you should wing it. Be deliberate with a basic script outline when applicable, and practice.
+        *   **Be able to answer the question what do I want my audience to walk away feeling at the end of the show?**. You may want your audience to learn new things and walk away with curiosity, or maybe  to walk away energized and pumped for the rest of the day, or perhaps youre looking to promote an emotional response and you want your audience to go and contribute to some cause. Be thoughtful and deliberate as to what you want to accomplish with your show, and design your content and experience around that.
+*   **Technical Guidelines and Recommendations**
+    *   The quality of the audio, video and internet connectivity is the responsibility of the showrunner. The showrunner must take all necessary measures to guarantee his/her own setup is capable of producing a high quality stream and provide all necessary instructions as well as validate the setup of all guests prior to the show.
+    *   Get the right gear. Your gear is your instrument, the better equipment the more freedom you will have to explore ideas and communicate with your audience. Invest in a good microphone, camera and lightning.
+*   **Scheduling and Format**
+    *   Cancellations or rescheduling must be communicated with at least 48 hours notice.
+    *   Showrunner must be available 15 minutes prior to the show for setup.
+    *   Available show slots are set to 30mins or 60mins. The showrunner is responsible for keeping content within the designated time window.
+    *   All content must be [TV-PG compliant, although a TV-G rating is preferred](https://rating-system.fandom.com/wiki/TV_Parental_Guidelines) considering the diversity of the audience. 
 
 **Twitch Operations Guidelines**
 
