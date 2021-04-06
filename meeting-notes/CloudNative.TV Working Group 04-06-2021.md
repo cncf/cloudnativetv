@@ -28,3 +28,4 @@
     - Saiyam - Cert Scenario (@bill to look into perhaps a discount code.)
     - Kat - Vincent Batts (Notary)
     - POP - Post Kubecon Show  (augustus/TBD Constrance)
+ - Discussion on Dry runs (2nd week of April)   (@kat/@POP/@rawkode)  -- the ask of team is to ensure that their show descriptions are up to date.
