@@ -33,14 +33,14 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 ## Launch Shows
 - [/lgtm](./shows/lgtm.md)
 - [100 days](./shows/100days.md)
-- Awesome Certs
-- CNCFaceoff
-- Fields Tested
-- Kat's Classroom
-- LatinX
+- [Awesome Certs](./shows/awesomecerts.md)
+- [CNCFaceoff](./shows/cncfaceoff.md)
+- [Fields Tested](./shows/fieldstested.md)
+- [Kat's Classroom](./shows/kat.md)
+- [LatinX](./shows/latinx.md)
 - [Solid State](./shows/solidstate.md)
-- Spotlight Live
-- This Week in Cloud Native
+- [Spotlight Live](./shows/spotlight.md)
+- [This Week in Cloud Native](./shows/thisweek.md)
 
 ## Communicating with Us
 
