@@ -30,6 +30,18 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 - [Metrics](./metrics.md)
 - [Archived Content](https://github.com/cncf/cloudnativetv/blob/main/operations/ARCHIVEDCONTENT.md)
 
+## Launch Shows
+- /lgtm
+- 100 days
+- Awesome Certs
+- CNCFaceoff
+- Fields Tested
+- Kat's Classroom
+- LatinX
+- Solid State
+- Spotlight Live
+- This Week in Cloud Native
+
 ## Communicating with Us
 
 Anyone is welcome to join our open discussions of SIG <T>
