@@ -1,6 +1,6 @@
 # SPOTLIGHT LIVE
 ## Description
-Interactive LIVE talk showlike interview where we speak to cncf projects, sigs, getting the whys and background at a human level.
+Interactive LIVE talk show like interview where we speak to cncf projects, sigs, getting the whys and background at a human level.
 ## Host
 POP
 ## Show Type
