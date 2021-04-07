@@ -8,6 +8,6 @@ Why do people join?  How is it interactive?You can learn anything -- being given
 ## Duration: 
 50-90 minutes
 ## Show Type: 
-Hands on / 101 / Learning 
+101 / Learning 
 ## Logo
 [Link to Google Drive](https://drive.google.com/drive/u/1/folders/16uVtkXTKyExed0OTEAShBMbyrhWoFr3z)
