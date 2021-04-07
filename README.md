@@ -69,6 +69,7 @@ projects and share news related to the group's mission and charter.
 - Saiyam Pathak ([@saiyam1814](https://github.com/saiyam1814)), Civo
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
+- Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
 
 ## Working Groups
 
