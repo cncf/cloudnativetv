@@ -31,7 +31,7 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 - [Archived Content](https://github.com/cncf/cloudnativetv/blob/main/operations/ARCHIVEDCONTENT.md)
 
 ## Launch Shows
-- /lgtm
+- [/lgtm](./shows/lgtm.md)
 - 100 days
 - Awesome Certs
 - CNCFaceoff
