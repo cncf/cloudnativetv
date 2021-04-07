@@ -32,7 +32,7 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 
 ## Launch Shows
 - [/lgtm](./shows/lgtm.md)
-- 100 days
+- [100 days](./shows/100days.md)
 - Awesome Certs
 - CNCFaceoff
 - Fields Tested
