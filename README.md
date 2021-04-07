@@ -38,7 +38,7 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 - Fields Tested
 - Kat's Classroom
 - LatinX
-- Solid State
+- [Solid State](./shows/solidstate.md)
 - Spotlight Live
 - This Week in Cloud Native
 
