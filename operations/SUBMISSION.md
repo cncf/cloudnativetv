@@ -1,6 +1,6 @@
 # Show Selection and Submission
 
-This document outlines the show submission requirements and selection process. It is currently a work in progress.
+This document outlines the show submission requirements and selection process. It is currently a work in progress.  FORM LINK HERE
 
 ## Submission Process
 
