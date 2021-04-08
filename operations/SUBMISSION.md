@@ -2,7 +2,7 @@
 
 This document outlines the show submission requirements and selection process. It is currently a work in progress. 
 
-To Submit Your Show for Cloud Native TV please follow this ISSUE LINK HERE
+To Submit Your Show for Cloud Native TV please follow this *ISSUE LINK HERE*
 
 ## Submission Process
 
