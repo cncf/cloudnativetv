@@ -2,7 +2,7 @@
 
 ## Registering Your Show
 
-Once you're show has been [approved by the working group](../cloudnativetv/README.md) (docs pending), you'll be invited to collaborate on [ClickUp](https://clickup.com).
+Once you're show has been [approved by the working group](https://github.com/cncf/cloudnativetv/blob/main/operations/SUBMISSION.md) (docs pending), you'll be invited to collaborate on [ClickUp](https://clickup.com).
 
 The first thing you need to do is register your show. There's a list called [Shows](https://share.clickup.com/b/h/6-50857969-2/15964e46bb6e053) (This is the public version). You can add your show to this list and assign it to yourself. See the following video.
 

@@ -2,13 +2,7 @@
 
 # CloudNative.TV <T>
   
-The definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
-
-SIG <T> is responsible for:
-
-- Become the definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
-
-The [SIG <T> charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Operations Guide](/README.md#cloudnativetv-operations) lays out more details.
+The CNCF's definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
 
 
 - [CNCF SIG <T>](#cncf-sig-t)
@@ -30,12 +24,23 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 
 ## CloudNative.TV Operations
 - [Scheduling](https://github.com/cncf/cloudnativetv/blob/main/scheduling.md)
-- Channel Guide
-- Show Guide
-- Show Selection Process
-- Twitch Operations Guidelines
+- [Channel Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/CHANNEL.md)
+- [Show and Twitch Operations Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/SHOW.md)
+- [Show Selection Process](https://github.com/cncf/cloudnativetv/blob/main/operations/SUBMISSION.md) 
 - [Metrics](./metrics.md)
-- Archived Content
+- [Archived Content](https://github.com/cncf/cloudnativetv/blob/main/operations/ARCHIVEDCONTENT.md)
+
+## Launch Shows
+- [/lgtm](./shows/lgtm.md)
+- [100 days](./shows/100days.md)
+- [Awesome Certs](./shows/awesomecerts.md)
+- [CNCFaceoff](./shows/cncfaceoff.md)
+- [Fields Tested](./shows/fieldstested.md)
+- [Kat's Classroom](./shows/kat.md)
+- [LatinX](./shows/latinx.md)
+- [Solid State](./shows/solidstate.md)
+- [Spotlight Live](./shows/spotlight.md)
+- [This Week in Cloud Native](./shows/thisweek.md)
 
 ## Communicating with Us
 
@@ -63,13 +68,16 @@ projects and share news related to the group's mission and charter.
 - Matt Stratton ([@mattstratton](https://github.com/mattstratton)), Pulumi
 - Saiyam Pathak ([@saiyam1814](https://github.com/saiyam1814)), Civo
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
+- Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
+- Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
 
 ## Working Groups
 
 ### Cloud Native TV
 
-[Charter](/wg-tv/README.md)
+[Charter] Get :shit: done
 
 Facilitators:
 
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
+- Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog

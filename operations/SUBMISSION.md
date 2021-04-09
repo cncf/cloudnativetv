@@ -1,6 +1,8 @@
 # Show Selection and Submission
 
-This document outlines the show submission requirements and selection process. It is currently a work in progress.
+This document outlines the show submission requirements and selection process. It is currently a work in progress. 
+
+To Submit Your Show for Cloud Native TV please follow this *ISSUE LINK HERE*
 
 ## Submission Process
 
@@ -58,11 +60,9 @@ Additionally
 
 ## Selection Process
 
-Form
+![image](https://user-images.githubusercontent.com/22457772/113220565-65a12d00-9251-11eb-8ce4-21278e9eb95b.png)
 
-Selection Committee
-
-Meeting
+Form --> Selection Committee Meeting --> Selection  ---> Graduation after criteria has been met.
 
 Link:
 
