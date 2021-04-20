@@ -7,17 +7,26 @@ assignees: ''
 
 ---
 
+// TODO - Delete this list when done!
+[ ] Read the [Submission Guidelines](../../operations/SUBMISSION.md)
+[ ] Fill out the following with the [Submission Guidelines](../../operations/SUBMISSION.md) in mind.
+
 # <Name Of Your Show>
+
+## Description
 
 <!-- A brief description consisting of 1-2 paragraphs describing your shows concept. -->
 <!-- What is your show? -->
 <!-- When will your show be broadcast? How often? Weekly? Biweekly? -->
 
-## Audience
+## Elevator Pitch
 
 <!-- A paragraph describing Who your audience is, Why they would watch your show, and How the show engages viewers -->
 
-## Branding
+## Show Type
+<!-- What format will your show be? A 101? Learning, Tutorial, Live Coding, Talk? Interview? Tech reviews? -->
+
+## Creative/Look/Logo requirements
 
 <!-- A brief outline of what your shows branding may look like, Can include pictures -->
 <!-- Example
@@ -33,7 +42,6 @@ assignees: ''
  |                        |
  |                        |
  |________________________|
-
 -->
 
 ## Host(s)
