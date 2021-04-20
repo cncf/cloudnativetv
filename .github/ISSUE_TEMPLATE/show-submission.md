@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 // TODO - Delete this list when done!
-[ ] Read the [Submission Guidelines](../../operations/SUBMISSION.md)
-[ ] Fill out the following with the [Submission Guidelines](../../operations/SUBMISSION.md) in mind.
+[ ] Read the [Submission Guidelines](../blob/main/operations/SUBMISSION.md)
+[ ] Fill out the following with the [Submission Guidelines](../blob/main/operations/SUBMISSION.md) in mind.
 
 # <Name Of Your Show>
 
