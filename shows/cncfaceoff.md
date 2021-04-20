@@ -1,7 +1,7 @@
 # CNCFaceoff
 ## Description
 <img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/22457772/113807030-634b4100-9731-11eb-9987-2da38df05a13.png">
-bracket/tournament style game show, with CNCF projects “competing”
+Bracket/tournament style game show, with CNCF projects “competing”
 8 or 16 projects enter and face off against each other in game competition (think a mix of family feud style/trivia challenge) (note that the entries need to be a multiple of 8 because of brackets)
 teams probably are four people each (this is 8 people plus host on each stream which is feasible)
 if there are 16 projects, in a single elimination style, this means there are 15 competitions
