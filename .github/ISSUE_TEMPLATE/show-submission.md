@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 // TODO - Delete this list when done!
+// when editing: go into the preview tab to click links
 [ ] Read the [Submission Guidelines](../blob/main/operations/SUBMISSION.md)
 [ ] Fill out the following with the [Submission Guidelines](../blob/main/operations/SUBMISSION.md) in mind.
 
