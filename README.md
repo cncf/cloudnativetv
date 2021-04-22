@@ -59,6 +59,9 @@ projects and share news related to the group's mission and charter.
 - David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 
+### CNCF Guidance
+- Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
+
 ### Bootstrap SIG members
 
 - David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
