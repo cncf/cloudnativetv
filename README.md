@@ -56,6 +56,7 @@ projects and share news related to the group's mission and charter.
 ### SIG Chairs
 
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
+- David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 
 ### Bootstrap SIG members
