@@ -3,6 +3,7 @@
 # CloudNative.TV <T>
   
 The CNCF's definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
+CloudNative.tv is currently community run shows livestreaming on Twitch with a variety of hosts show casing different aspects of the cloud native community.
 
 - [Meetings](#meetings)
 - [CloudNative.tv Operations](#cloudnativetv-operations)
