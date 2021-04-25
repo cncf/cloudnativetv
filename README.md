@@ -4,20 +4,19 @@
   
 The CNCF's definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
 
-
-- [CNCF SIG <T>](#cncf-sig-t)
-  - [Meetings](#meetings)
-  - [Communicating with Us](#communicating-with-us)
-  - [Members](#members)
-    - [SIG Chairs](#sig-chairs)
-    - [TOC Liaisons](#toc-liaisons)
-    - [Bootstrap SIG members](#bootstrap-sig-members)
-  - [Working Groups](#working-groups)
-    - [Cloud Native TV](#cloud-native-tv)
+- [Meetings](#meetings)
+- [CloudNative.tv Operations](#cloudnativetv-operations)
+- [Launch Shows](#launch-shows)
+- [Communicating with Us](#communicating-with-us)
+- [Members](#members)
+  - [SIG Chairs](#sig-chairs)
+  - [Bootstrap SIG members](#bootstrap-sig-members)
+- [Working Groups](#working-groups)
+  - [Cloud Native TV](#cloud-native-tv)
 
 ## Meetings
 
-The <T> Special Interest Group meets biweekly on Tuesday at
+The Special Interest Group meets biweekly on Tuesday at
 17:30 UTC (see your timezone [here](https://time.is/compare/1730_09_Mar_2021_in_UTC)):
 
 - Calendar invites are manual for now, please reach out to david@rawkode.com for an invitation.
@@ -74,14 +73,3 @@ projects and share news related to the group's mission and charter.
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
 - Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
-
-## Working Groups
-
-### Cloud Native TV
-
-[Charter] Get :shit: done
-
-Facilitators:
-
-- POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
-- Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
