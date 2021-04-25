@@ -1,5 +1,5 @@
 # Archived Content 
-Content after VOD time expiration is complete will need to be archived to Youtube this page wil describe the process, the timeline, and tagging detail.
+Content after VOD time expiration is complete will need to be archived to Youtube this page will describe the process, the timeline, and tagging details.
 
 ## Help Wanted 
 - How do we handle archived content?  (Document Handoff Process)
