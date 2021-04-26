@@ -1,4 +1,4 @@
-# Show Guide
+# Show Guidelines
 
 **Showrunner Guide**
 
@@ -38,12 +38,15 @@
     - Kat Cosgrove
     - Pop
 
-**OBS/Local Stream Software**
+**OBS/Local Streaming Software**
 
 - OBS
   - Streamlabs OBS is the most well-supported and full-featured option for live streaming to Twitch. On Windows, this is fairly painless and the process is documented [here](https://streamlabs.com/content-hub/post/getting-started-with-streamlabs-obs).
   - On MacOS or Ubuntu, you will need to use vanilla OBS. Note that OBS is fairly resource-hungry, so if you are choosing between multiple machines to stream from, choose the beefier one for running OBS. You can get OBS [here](https://obsproject.com/)
   - Either way, you will need to set up your stream overlay. On Streamlabs, this will largely be a one-click deploy. On OBS, it will be more manual but it&#39;s a well-documented process and someone from CloudNative.tv will be available to help if you run into trouble. In both cases, you will need to modify it with your specific show&#39;s logo.
+
+**Hosted Streaming Software**
+
 - Restream Studio
   - Restream Studio is a brower based stremaing platform that is very similar to Streamyard
   - You can find full documentation for it [here](https://restream.io/blog/restream-studio-everything-you-need-to-know/) or more info in the [help center](https://support.restream.io/en/collections/1623532-restream-studio)
