@@ -1,4 +1,4 @@
-<p align="left"><img src="cloud-native-tv-logo.svg" width="360"></p>
+<p align="left"><img src="branding/cloudnativetv/cloud-native-tv-logo.svg" width="360"></p>
 
 # CloudNative.TV <T>
   

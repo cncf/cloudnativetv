@@ -1,2 +1,0 @@
-# CloudNative.TV Logo
-
