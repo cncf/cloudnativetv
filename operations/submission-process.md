@@ -1,4 +1,4 @@
-# Show Selection and Submission
+# Show Submission and Selection
 
 This document outlines the show submission requirements and selection process. The process is the same for both existing shows which seek to move into the CNCF, and new shows to be formed within the CNCF. It is currently a work in progress. 
 
@@ -76,4 +76,4 @@ Form --> Selection Committee Meeting --> Selection  ---> Graduation after criter
 
 Link:
 
-Proposals are evaluated on an ongoing basis. They are judged on many criteria, including (but not confined to) the quality of the proposal or completed work, the showrunners ptch , and the needs of the schedule. All projects for consideration will fall within the process that is described below. Projects that are unique and timely in nature will receive immediate attention, but CloudNative.tv WG/Committee will determine, in its sole discretion, which programs and proposals fall into this category.
+Proposals are evaluated on an ongoing basis. They are judged on many criteria, including (but not confined to) the quality of the proposal or completed work, the showrunner's ptich , and the needs of the schedule. All projects for consideration will fall within the process that is described below. Projects that are unique and timely in nature will receive immediate attention, but CloudNative.tv WG will determine, in its sole discretion, which programs and proposals fall into this category.
