@@ -45,12 +45,13 @@ The Special Interest Group meets biweekly on Tuesday at
 
 ## Communicating with Us
 
-Anyone is welcome to join our open discussions of SIG <T>
-projects and share news related to the group's mission and charter.
+Anyone is welcome to join our open discussions of
+shows and share news related to CloudNative.tv
 
 - No mailing list yet
 - No Slack channel yet
 - [File an Issue](https://github.com/cncf/cloudnativetv)
+- Email: twitch@cncf.io
 
 ## Members
 
