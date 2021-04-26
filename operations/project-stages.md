@@ -1,22 +1,4 @@
-# Graduation Proposal
-
-## Show Proposal Process v1.0
-
-### Introduction 
-
-This governance policy sets forth the proposal process for shows to be accepted for CloudNative TV ("CTV"). The process is the same for both existing shows which seek to move into the CNCF, and new shows to be formed within the CNCF.
-
-### Global Criteria
-
-- Shows must be exclusive to CTV and not stream on other platforms or channels
-- Shows must be related to, or benefit, Cloud Native technologies, members, and/or community.
-
-### Considerations
-
-- Number of Viewers
-- 
-
-### Project stages
+# Project stages
 
 - Sandbox
 - Incubating

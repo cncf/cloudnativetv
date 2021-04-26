@@ -1,8 +1,18 @@
 # Show Selection and Submission
 
-This document outlines the show submission requirements and selection process. It is currently a work in progress. 
+This document outlines the show submission requirements and selection process. The process is the same for both existing shows which seek to move into the CNCF, and new shows to be formed within the CNCF. It is currently a work in progress. 
 
 To Submit Your Show for Cloud Native TV please follow [this link](https://github.com/cncf/cloudnativetv/issues/new/choose)
+
+## Global Criteria
+
+- Shows must be exclusive to CTV and not stream on other platforms or channels
+- Shows must be related to, or benefit, Cloud Native technologies, members, and/or community
+- Shows must be vendor neutral
+
+## Considerations
+
+- Number of viewers
 
 ## Submission Process
 
