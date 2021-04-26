@@ -29,6 +29,7 @@ The <T> Special Interest Group meets biweekly on Tuesday at
 - [Show Selection Process](https://github.com/cncf/cloudnativetv/blob/main/operations/SUBMISSION.md) 
 - [Metrics](./metrics.md)
 - [Archived Content](https://github.com/cncf/cloudnativetv/blob/main/operations/ARCHIVEDCONTENT.md)
+- [Contributing](https://github.com/cncf/cloudnativetv/blob/main/CONTRIBUTING.md)
 
 ## Launch Shows
 - [/lgtm](./shows/lgtm.md)
