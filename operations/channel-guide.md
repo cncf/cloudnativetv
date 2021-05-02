@@ -1,9 +1,5 @@
 # Channel Guide
 
-## Mission
-Become the definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world.
-
-
 ## Branding
 
 * Use distinct and unique components around advertising and marketing each and every show.
@@ -19,11 +15,3 @@ Become the definitive interactive media experience for anyone wanting to learn, 
 * Be respectful of subscribers!
 
 * We should provide an amazing place for hosts, speakers, and guests to safely foster and build their own brand here, including helping them find their identity within the community.
-
-## Scheduling 
-
-* TODO: Add overview of ClickUp and how-to video
-
-* Programming requirements
-
-* TODO: Example Schedule
