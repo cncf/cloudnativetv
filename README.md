@@ -26,7 +26,7 @@ The Special Interest Group meets biweekly on Tuesday at
 - [Scheduling](./scheduling.md)
 - [Channel Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/channel-guide.md)
 - [Show and Twitch Operations Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/SHOW.md)
-- [Show Selection Process](https://github.com/cncf/cloudnativetv/blob/main/operations/SUBMISSION.md) 
+- [Show Selection Process](https://github.com/cncf/cloudnativetv/blob/main/operations/show-submission.md) 
 - [Metrics](./metrics.md)
 - [Archived Content](https://github.com/cncf/cloudnativetv/blob/main/operations/ARCHIVEDCONTENT.md)
 - [Contributing](https://github.com/cncf/cloudnativetv/blob/main/CONTRIBUTING.md)
