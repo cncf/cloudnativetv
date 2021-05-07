@@ -76,3 +76,5 @@ shows and share news related to CloudNative.tv
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
 - Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
+- Matt Broberg ([@mbbroberg](github.com/users/mbbroberg)), Red Hat
+- Paul Czarkowski ([@paulczar](github.com/users/paulczar)), Red Hat
