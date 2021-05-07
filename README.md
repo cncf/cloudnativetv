@@ -23,7 +23,7 @@ The Special Interest Group meets biweekly on Tuesday at
 - Calendar invites are manual for now, please reach out to david@rawkode.com for an invitation.
 
 ## CloudNative.TV Operations
-- [Scheduling](https://github.com/cncf/cloudnativetv/blob/main/operations/scheduling.md)
+- [Scheduling](./scheduling.md)
 - [Channel Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/channel-guide.md)
 - [Show and Twitch Operations Guide](https://github.com/cncf/cloudnativetv/blob/main/operations/SHOW.md)
 - [Show Selection Process](https://github.com/cncf/cloudnativetv/blob/main/operations/SUBMISSION.md) 
