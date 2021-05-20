@@ -38,6 +38,14 @@ b. The Governing Board shall determine the process and timeline for the nominati
 
 c. A minimum of 14 calendar days shall be reserved for an Evaluation Period whereby CloudNative.tv nominees may be contacted by members of the Governing Board and CloudNative.tv.
 
+Constraints
+
+i. CloudNative.tv Leaders shall serve two "season" terms
+
+ii. CloudNative.tv Leaders may be removed by a two-thirds vote of the other CloudNative.tv members, with the impacted individual ineligible to participate in the vote.
+
+iii. Any CloudNative.tv Leader that misses three (3) consecutive meetings shall be automatically suspended from eligibility to vote until having attended two meetings consecutively. For avoidance of doubt, the suspended CloudNative.tv member shall be eligible to vote in the second consecutive meeting.
+
 # Voting
 
 In various situations the CloudNative.tv shall hold a vote. These votes can happen on the phone, email, or via a voting service, when appropriate. Members can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast. An abstain vote equals not voting at all.
