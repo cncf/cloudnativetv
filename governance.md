@@ -22,7 +22,7 @@ vi. After a review of the opinions and optional virtual discussion/debate option
 
 i. commit that they have the available bandwidth to make the time to invest in the CNCF CloudNative.tv,
 
-ii. demonstrate an advanced level of professional experience as engineers in the scope of CNCF,
+ii. demonstrate an advanced level of professional experience as engineers in the scope of CNCF, and proficiency in running a livestream or youtube Show (including editing etc)
 
 iii. demonstrate seniority sufficient to access additional staff or community members to assist in their CloudNative.tv preparations, and
 
