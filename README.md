@@ -9,7 +9,7 @@ CloudNative.tv is currently community run shows livestreaming on Twitch with a v
 - [CloudNative.tv Operations](#cloudnativetv-operations)
 - [Launch Shows](#launch-shows)
 - [Communicating with Us](#communicating-with-us)
-- [Governance](governance.md)
+- [Governance](https://github.com/cncf/cloudnativetv/blob/main/governance.md)
 - [Members](#members)
   - [SIG Chairs](#sig-chairs)
   - [Bootstrap SIG members](#bootstrap-sig-members)
