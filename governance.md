@@ -38,7 +38,7 @@ b. The Governing Board shall determine the process and timeline for the nominati
 
 c. A minimum of 14 calendar days shall be reserved for an Evaluation Period whereby CloudNative.tv nominees may be contacted by members of the Governing Board and CloudNative.tv.
 
-Constraints
+# Constraints
 
 i. CloudNative.tv Leaders shall serve two "season" terms
 
