@@ -2,7 +2,7 @@
 
 ## Facilitator : POP ([@danpopsd](https://github.com/danpopsd))
 
-## Scribe:  Rawkode ([@rawkode](https://github.com/rawkode))
+## Scribe:  Matt Stratton
 
 
 ## Who joined:
