@@ -36,9 +36,9 @@ Week 2
 06-18 Friday - Rawkode and Me(edited) (
 
 ## Actions:
-Everyone to start promoting their own show on twitter - "I'm kicking off X show on X date!" etc
-Matty to send link to CNCF team submission form to Bill before Thursday 
-Overlays MUST BE used for your shows  -- any questions please let Kat or Zab Know.
+- Everyone to start promoting their own show on twitter - "I'm kicking off X show on X date!" etc
+- Matty to send link to CNCF team submission form to Bill before Thursday 
+- Overlays MUST BE used for your shows  -- any questions please let Kat or Zab Know.
 
 
 
