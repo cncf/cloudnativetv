@@ -49,7 +49,6 @@ The Special Interest Group meets biweekly on Tuesday at
 Anyone is welcome to join our open discussions of
 shows and share news related to CloudNative.tv
 
-- No mailing list yet
 -  [CNCF SLACK #cloudnativetv](https://cloud-native.slack.com/archives/C0233V7105C)
 - [File an Issue](https://github.com/cncf/cloudnativetv)
 - Email: twitch@cncf.io
