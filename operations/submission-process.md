@@ -9,6 +9,7 @@ To Submit Your Show for Cloud Native TV please follow [this link](https://github
 - Shows must be exclusive to CTV and not stream on other platforms or channels
 - Shows must be related to, or benefit, Cloud Native technologies, members, and/or community
 - Shows must be vendor neutral
+- Shows that are CNCF projects must be incubated or graduated.  Sandbox projects will not be accepted
 
 ## Considerations
 
