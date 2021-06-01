@@ -22,7 +22,7 @@
     *   Cancellations or rescheduling must be communicated with at least 48 hours notice.
     *   Showrunner must be available 15 minutes prior to the show for setup.
     *   Available show slots are set to 30mins or 60mins. The showrunner is responsible for keeping content within the designated time window.
-    *   All content must be [TV-PG compliant, although a TV-G rating is preferred](https://rating-system.fandom.com/wiki/TV_Parental_Guidelines) considering the diversity of the audience. 
+    *   All content must be [TV-PG compliant, although a TV-G rating is preferred](https://rating-system.fandom.com/wiki/TV_Parental_Guidelines) considering the diversity of the audience.
 
 **Twitch Operations Guidelines**
 
@@ -44,6 +44,7 @@
   - Streamlabs OBS is the most well-supported and full-featured option for live streaming to Twitch. On Windows, this is fairly painless and the process is documented [here](https://streamlabs.com/content-hub/post/getting-started-with-streamlabs-obs).
   - On MacOS or Ubuntu, you will need to use vanilla OBS. Note that OBS is fairly resource-hungry, so if you are choosing between multiple machines to stream from, choose the beefier one for running OBS. You can get OBS [here](https://obsproject.com/)
   - Either way, you will need to set up your stream overlay. On Streamlabs, this will largely be a one-click deploy. On OBS, it will be more manual but it&#39;s a well-documented process and someone from CloudNative.tv will be available to help if you run into trouble. In both cases, you will need to modify it with your specific show&#39;s logo.
+  - See [../streaming/OBS/README.md](../streaming/OBS/README.md) for Scene Collections and other Assets.
 
 **Hosted Streaming Software**
 
@@ -53,33 +54,39 @@
   - To get access to the CNCF instance, please contact bmulligan@linuxfoundation.org
   - You will be able to customize:
     -  add logo or overlay
-    -  add/remove guests easily upto 10 and with different screen options 
+    -  add/remove guests easily upto 10 and with different screen options
     -  share screen, specific window or chrome tab
     -  run video before starting the stream
-    -  add background image 
+    -  add background image
     -  easily use external camera and microphone
     -  make the chat part of the stream
     -  add banners and scrolls
-  - There are certains things that you cannot do 
+  - There are certains things that you cannot do
     - you cannot customize livestream layout other than provided by restream
     - you can only use the layouts by streamyard
     - add a background behind yourself
 - Streamyard
-  - Streamyard is a browser based streaming platform with which you can stream to Youtube, twitch etc. 
+  - Streamyard is a browser based streaming platform with which you can stream to Youtube, twitch etc.
   - Simple to use and get started, documented [here](https://streamyard.com/resources/docs/getting-started/)
   - There are things that you can customize if you have a paid plan you can:
     -  add logo (location will be top right)
     -  add overlay -> [Example](https://streamertemplates.com/)
-    -  add/remove guests easily upto 10 and with different screen options 
+    -  add/remove guests easily upto 10 and with different screen options
     -  share screen, specific window or chrome tab
     -  run video before starting the stream
-    -  add background image 
+    -  add background image
     -  easily use external camera and microphone
-    -  add greenscreen background to your background 
+    -  add greenscreen background to your background
     -  chat appears in the streamyard itself
-    -  you can add banners and scrolls 
-  - There are certains things that you cannot do 
+    -  you can add banners and scrolls
+  - There are certains things that you cannot do
     - you cannot customize livestream layout other than provided by streamyard
     - you have to choose the layouts provided by streamyard
 - Others?
 
+
+** Stream Deck **
+
+An [Elgato Stream Deck](https://www.elgato.com/en/stream-deck) is incredibly useful for quickly changing between scenes. The Standard Model is a pretty good compromise between functionality and real estate.
+
+You can find example Stream Deck profiles at [../streaming/StreamDeck](../streaming/StreamDeck)
