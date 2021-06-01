@@ -1,0 +1,3442 @@
+{
+    "AuxAudioDevice1": {
+        "balance": 0.5,
+        "deinterlace_field_order": 0,
+        "deinterlace_mode": 0,
+        "enabled": true,
+        "filters": [
+            {
+                "balance": 0.5,
+                "deinterlace_field_order": 0,
+                "deinterlace_mode": 0,
+                "enabled": false,
+                "flags": 0,
+                "hotkeys": {},
+                "id": "compressor_filter",
+                "mixers": 255,
+                "monitoring_type": 0,
+                "muted": false,
+                "name": "Compressor",
+                "prev_ver": 436273153,
+                "private_settings": {},
+                "push-to-mute": false,
+                "push-to-mute-delay": 0,
+                "push-to-talk": false,
+                "push-to-talk-delay": 0,
+                "settings": {},
+                "sync": 0,
+                "versioned_id": "compressor_filter",
+                "volume": 1.0
+            },
+            {
+                "balance": 0.5,
+                "deinterlace_field_order": 0,
+                "deinterlace_mode": 0,
+                "enabled": false,
+                "flags": 0,
+                "hotkeys": {},
+                "id": "noise_suppress_filter",
+                "mixers": 255,
+                "monitoring_type": 0,
+                "muted": false,
+                "name": "Noise Suppression",
+                "prev_ver": 436273153,
+                "private_settings": {},
+                "push-to-mute": false,
+                "push-to-mute-delay": 0,
+                "push-to-talk": false,
+                "push-to-talk-delay": 0,
+                "settings": {},
+                "sync": 0,
+                "versioned_id": "noise_suppress_filter_v2",
+                "volume": 1.0
+            }
+        ],
+        "flags": 0,
+        "hotkeys": {
+            "libobs.mute": [],
+            "libobs.push-to-mute": [],
+            "libobs.push-to-talk": [],
+            "libobs.unmute": []
+        },
+        "id": "wasapi_input_capture",
+        "mixers": 255,
+        "monitoring_type": 1,
+        "muted": false,
+        "name": "Mic/Aux",
+        "prev_ver": 436273153,
+        "private_settings": {},
+        "push-to-mute": false,
+        "push-to-mute-delay": 0,
+        "push-to-talk": false,
+        "push-to-talk-delay": 0,
+        "settings": {
+            "device_id": "{0.0.1.00000000}.{dbee3b24-adca-4c1e-9da7-813b152d2039}"
+        },
+        "sync": 0,
+        "versioned_id": "wasapi_input_capture",
+        "volume": 1.0
+    },
+    "current_program_scene": "00-Start",
+    "current_scene": "00-Start",
+    "current_transition": "Fade",
+    "groups": [],
+    "modules": {
+        "auto-scene-switcher": {
+            "active": false,
+            "interval": 300,
+            "non_matching_scene": "",
+            "switch_if_not_matching": false,
+            "switches": []
+        },
+        "captions": {
+            "enabled": false,
+            "lang_id": 1033,
+            "provider": "mssapi",
+            "source": ""
+        },
+        "decklink_captions": {
+            "source": ""
+        },
+        "output-timer": {
+            "autoStartRecordTimer": false,
+            "autoStartStreamTimer": false,
+            "pauseRecordTimer": true,
+            "recordTimerHours": 0,
+            "recordTimerMinutes": 0,
+            "recordTimerSeconds": 30,
+            "streamTimerHours": 0,
+            "streamTimerMinutes": 0,
+            "streamTimerSeconds": 30
+        },
+        "scripts-tool": []
+    },
+    "name": "Cloud Native TV",
+    "preview_locked": false,
+    "quick_transitions": [
+        {
+            "duration": 300,
+            "fade_to_black": false,
+            "hotkeys": [],
+            "id": 7,
+            "name": "Cut"
+        },
+        {
+            "duration": 300,
+            "fade_to_black": false,
+            "hotkeys": [],
+            "id": 8,
+            "name": "Fade"
+        },
+        {
+            "duration": 300,
+            "fade_to_black": true,
+            "hotkeys": [],
+            "id": 9,
+            "name": "Fade"
+        }
+    ],
+    "saved_projectors": [],
+    "scaling_enabled": false,
+    "scaling_level": 0,
+    "scaling_off_x": 0.0,
+    "scaling_off_y": 0.0,
+    "scene_order": [
+        {
+            "name": "00-Start"
+        },
+        {
+            "name": "SingleCam01"
+        },
+        {
+            "name": "SingleCam01-chat"
+        },
+        {
+            "name": "SingleScreen01"
+        },
+        {
+            "name": "DualCam01"
+        },
+        {
+            "name": "DualCam02"
+        },
+        {
+            "name": "--------------------------------"
+        },
+        {
+            "name": "zzCam01"
+        },
+        {
+            "name": "zzCam02"
+        },
+        {
+            "name": "zzScreen01"
+        },
+        {
+            "name": "zzOverlayMain"
+        },
+        {
+            "name": "zzOverlayDualCam01"
+        },
+        {
+            "name": "zzOverlayDualCam02"
+        },
+        {
+            "name": "zzOverlayMainCamAndChat"
+        },
+        {
+            "name": "zzTwitchChat"
+        },
+        {
+            "name": "zzShowName"
+        },
+        {
+            "name": "zzOverlayCamera01"
+        },
+        {
+            "name": "zzOverlayCamera02"
+        }
+    ],
+    "sources": [
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "SlideShow.NextSlide": [],
+                "SlideShow.PlayPause": [],
+                "SlideShow.PreviousSlide": [],
+                "SlideShow.Restart": [],
+                "SlideShow.Stop": []
+            },
+            "id": "slideshow",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image - MainScreen Overlay",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "files": [
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00000.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00004.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00008.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00012.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00016.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00020.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00024.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00028.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00032.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00036.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00040.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00044.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00048.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00052.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00056.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00060.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00064.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00068.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00072.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00076.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00080.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00084.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00088.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00092.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00100.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00104.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00108.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00112.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00116.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00120.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00124.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00128.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00132.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00136.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00140.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00144.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00148.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00152.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00156.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00160.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00164.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00168.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00172.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00176.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00180.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00184.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00188.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00192.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00196.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00200.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00204.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00208.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00212.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00216.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00220.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00224.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00228.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00232.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00236.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00240.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00244.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00248.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00252.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00256.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00260.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00264.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00268.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00272.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00276.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00280.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00284.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00288.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00292.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainScreen/MainScreen_00296.png"
+                    }
+                ],
+                "slide_time": 200,
+                "transition": "cut",
+                "transition_speed": 0
+            },
+            "sync": 0,
+            "versioned_id": "slideshow",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "SlideShow.NextSlide": [],
+                "SlideShow.PlayPause": [],
+                "SlideShow.PreviousSlide": [],
+                "SlideShow.Restart": [],
+                "SlideShow.Stop": []
+            },
+            "id": "slideshow",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image - OverlayCamera02",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "files": [
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/OverlayCamera2"
+                    }
+                ],
+                "slide_time": 100,
+                "transition_speed": 0
+            },
+            "sync": 0,
+            "versioned_id": "slideshow",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Image - OverlayCamera02": [],
+                "libobs.show_scene_item.Image - OverlayCamera02": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzOverlayCamera02",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Image - OverlayCamera02",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "SlideShow.NextSlide": [],
+                "SlideShow.PlayPause": [],
+                "SlideShow.PreviousSlide": [],
+                "SlideShow.Restart": [],
+                "SlideShow.Stop": []
+            },
+            "id": "slideshow",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image - OverlayCamera01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "files": [
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/OverlayCamera"
+                    }
+                ],
+                "slide_time": 100,
+                "transition": "cut",
+                "transition_speed": 0
+            },
+            "sync": 0,
+            "versioned_id": "slideshow",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Image - OverlayCamera01": [],
+                "libobs.show_scene_item.Image - OverlayCamera01": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzOverlayCamera01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Image - OverlayCamera01",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text - Show Name",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "color": 4291617831,
+                "font": {
+                    "face": "Comic Sans MS",
+                    "flags": 0,
+                    "size": 72,
+                    "style": "Regular"
+                },
+                "text": "Cake Nite Cookie Fite"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Text - Show Name": [],
+                "libobs.show_scene_item.Text - Show Name": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzShowName",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Text - Show Name",
+                        "pos": {
+                            "x": 615.0,
+                            "y": 43.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.3339768648147583,
+                            "y": 1.3333333730697632
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "browser_source",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Browser - TwitchChat",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "height": 900,
+                "url": "https://www.twitch.tv/popout/devopspartygames/chat",
+                "width": 400
+            },
+            "sync": 0,
+            "versioned_id": "browser_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Browser - TwitchChat": [],
+                "libobs.show_scene_item.Browser - TwitchChat": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzTwitchChat",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Browser - TwitchChat",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.zzCam01": [],
+                "libobs.hide_scene_item.zzOverlayMainCamAndChat": [],
+                "libobs.hide_scene_item.zzTwitchChat": [],
+                "libobs.show_scene_item.zzCam01": [],
+                "libobs.show_scene_item.zzOverlayMainCamAndChat": [],
+                "libobs.show_scene_item.zzTwitchChat": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "SingleCam01-chat",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 3,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "zzCam01",
+                        "pos": {
+                            "x": 17.0,
+                            "y": 144.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.78802084922790527,
+                            "y": 0.78796297311782837
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 233,
+                        "crop_left": 0,
+                        "crop_right": 1527,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "zzTwitchChat",
+                        "pos": {
+                            "x": 1530.0,
+                            "y": 146.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "zzOverlayMainCamAndChat",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "SlideShow.NextSlide": [],
+                "SlideShow.PlayPause": [],
+                "SlideShow.PreviousSlide": [],
+                "SlideShow.Restart": [],
+                "SlideShow.Stop": []
+            },
+            "id": "slideshow",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "image - OverlayMainCamAndChat",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "files": [
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00000.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00005.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00010.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00015.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00020.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00025.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00030.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00035.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00040.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00045.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00050.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00055.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00060.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00065.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00070.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00075.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00080.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00085.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00090.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00095.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00100.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00105.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00110.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00115.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00120.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00125.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00130.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00135.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00140.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00145.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00150.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00155.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00160.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00165.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00170.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00175.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00180.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00185.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00190.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00195.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00200.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00205.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00210.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00215.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00220.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00225.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00230.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00235.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00240.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00245.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00250.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00255.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00260.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00265.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00270.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00275.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00280.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00285.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00290.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00295.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/MainCamAndChat/MainCamAndChat_00300.png"
+                    }
+                ],
+                "slide_time": 150,
+                "transition": "cut",
+                "transition_speed": 0
+            },
+            "sync": 0,
+            "versioned_id": "slideshow",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.image - OverlayMainCamAndChat": [],
+                "libobs.hide_scene_item.zzShowName": [],
+                "libobs.show_scene_item.image - OverlayMainCamAndChat": [],
+                "libobs.show_scene_item.zzShowName": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzOverlayMainCamAndChat",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 2,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "image - OverlayMainCamAndChat",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "zzShowName",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Image - DualCam02 Overlay": [],
+                "libobs.hide_scene_item.zzShowName": [],
+                "libobs.show_scene_item.Image - DualCam02 Overlay": [],
+                "libobs.show_scene_item.zzShowName": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzOverlayDualCam02",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 2,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Image - DualCam02 Overlay",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "zzShowName",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Image - DualCam01 Overlay": [],
+                "libobs.hide_scene_item.zzShowName": [],
+                "libobs.show_scene_item.Image - DualCam01 Overlay": [],
+                "libobs.show_scene_item.zzShowName": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzOverlayDualCam01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 2,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Image - DualCam01 Overlay",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "zzShowName",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Image - MainScreen Overlay": [],
+                "libobs.hide_scene_item.zzShowName": [],
+                "libobs.show_scene_item.Image - MainScreen Overlay": [],
+                "libobs.show_scene_item.zzShowName": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzOverlayMain",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 4,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Image - MainScreen Overlay",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "zzShowName",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "--------------------------------",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 0,
+                "items": []
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text - ??",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "text": "What goes here? "
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.WebCam - Cam01": [],
+                "libobs.show_scene_item.WebCam - Cam01": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzCam02",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "WebCam - Cam01",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.zzOverlayMain": [],
+                "libobs.hide_scene_item.zzScreen01": [],
+                "libobs.show_scene_item.zzOverlayMain": [],
+                "libobs.show_scene_item.zzScreen01": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "SingleScreen01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 3,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "zzScreen01",
+                        "pos": {
+                            "x": 76.0,
+                            "y": 53.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.91718751192092896,
+                            "y": 0.91759258508682251
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "zzOverlayMain",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "monitor_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Display Capture - Screen01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "monitor": 1
+            },
+            "sync": 0,
+            "versioned_id": "monitor_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Display Capture - Screen01": [],
+                "libobs.show_scene_item.Display Capture - Screen01": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzScreen01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Display Capture - Screen01",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "SlideShow.NextSlide": [],
+                "SlideShow.PlayPause": [],
+                "SlideShow.PreviousSlide": [],
+                "SlideShow.Restart": [],
+                "SlideShow.Stop": []
+            },
+            "id": "slideshow",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image - DualCam02 Overlay",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "files": [
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00000.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00005.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00010.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00015.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00020.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00025.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00030.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00035.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00040.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00045.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00050.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00055.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00060.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00065.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00070.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00075.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00080.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00085.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00090.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00095.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00105.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00110.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00115.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00120.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00125.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00130.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00135.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00140.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00145.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00150.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00155.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00160.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00165.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00170.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00175.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00180.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00185.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00190.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00195.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00200.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00205.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00210.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00215.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00220.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00225.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00230.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00235.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00240.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00245.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00250.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00255.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00260.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00265.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00270.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00275.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00280.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00285.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00290.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam02/DualCam02_00295.png"
+                    }
+                ],
+                "slide_time": 150,
+                "transition": "cut",
+                "transition_speed": 0
+            },
+            "sync": 0,
+            "versioned_id": "slideshow",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "SlideShow.NextSlide": [],
+                "SlideShow.PlayPause": [],
+                "SlideShow.PreviousSlide": [],
+                "SlideShow.Restart": [],
+                "SlideShow.Stop": []
+            },
+            "id": "slideshow",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image - DualCam01 Overlay",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "files": [
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00000.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00004.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00008.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00012.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00016.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00020.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00024.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00028.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00032.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00036.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00040.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00044.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00048.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00052.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00056.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00060.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00064.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00068.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00072.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00076.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00080.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00084.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00088.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00092.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00096.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00100.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00104.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00108.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00112.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00116.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00120.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00124.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00128.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00132.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00136.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00140.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00144.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00148.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00152.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00156.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00160.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00164.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00168.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00172.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00176.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00180.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00184.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00188.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00192.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00196.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00200.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00204.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00208.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00212.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00216.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00220.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00224.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00228.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00232.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00236.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00240.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00244.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00248.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00252.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00256.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00260.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00264.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00268.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00272.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00276.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00280.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00284.png"
+                    },
+                    {
+                        "hidden": false,
+                        "selected": false,
+                        "value": "C:/OBS/cloud-native-tv/assets/DualCam01/DualCam01_00288.png"
+                    }
+                ],
+                "slide_time": 150,
+                "transition": "cut",
+                "transition_speed": 0,
+                "use_custom_size": "Automatic"
+            },
+            "sync": 0,
+            "versioned_id": "slideshow",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Text - ??": [],
+                "libobs.hide_scene_item.zzCam01": [],
+                "libobs.hide_scene_item.zzCam02": [],
+                "libobs.hide_scene_item.zzOverlayDualCam02": [],
+                "libobs.show_scene_item.Text - ??": [],
+                "libobs.show_scene_item.zzCam01": [],
+                "libobs.show_scene_item.zzCam02": [],
+                "libobs.show_scene_item.zzOverlayDualCam02": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "DualCam02",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 6,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "zzCam02",
+                        "pos": {
+                            "x": 1246.0,
+                            "y": 193.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.35104167461395264,
+                            "y": 0.35092592239379883
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "zzCam01",
+                        "pos": {
+                            "x": 21.0,
+                            "y": 192.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.62864583730697632,
+                            "y": 0.62870371341705322
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "Text - ??",
+                        "pos": {
+                            "x": 1305.0,
+                            "y": 692.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.28909692168235779,
+                            "y": 0.28787878155708313
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "zzOverlayDualCam02",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Text - ??": [],
+                "libobs.hide_scene_item.zzCam01": [],
+                "libobs.hide_scene_item.zzCam02": [],
+                "libobs.hide_scene_item.zzOverlayDualCam01": [],
+                "libobs.show_scene_item.Text - ??": [],
+                "libobs.show_scene_item.zzCam01": [],
+                "libobs.show_scene_item.zzCam02": [],
+                "libobs.show_scene_item.zzOverlayDualCam01": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "DualCam01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 5,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "zzCam01",
+                        "pos": {
+                            "x": 15.0,
+                            "y": 277.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.4895833432674408,
+                            "y": 0.48981481790542603
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "zzCam02",
+                        "pos": {
+                            "x": 970.0,
+                            "y": 269.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.49531251192092896,
+                            "y": 0.49537035822868347
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Text - ??",
+                        "pos": {
+                            "x": 736.0,
+                            "y": 893.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.2929515540599823,
+                            "y": 0.2916666567325592
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "zzOverlayDualCam01",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "WebCam - Cam01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "last_resolution": "1920x1080",
+                "last_video_device_id": "HD Pro Webcam C920:\\\\?\\usb#22vid_046d&pid_082d&mi_00#226&2393c2c0&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "res_type": 1,
+                "resolution": "1920x1080",
+                "video_device_id": "HD Pro Webcam C920:\\\\?\\usb#22vid_046d&pid_082d&mi_00#226&2393c2c0&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.WebCam - Cam01": [],
+                "libobs.show_scene_item.WebCam - Cam01": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "zzCam01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "WebCam - Cam01",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "MediaSource.Pause": [],
+                "MediaSource.Play": [],
+                "MediaSource.Restart": [],
+                "MediaSource.Stop": [],
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "ffmpeg_source",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Media - Starting Screen",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "clear_on_media_end": true,
+                "local_file": "C:/OBS/cloud-native-tv/assets/StartingScreen_full5.mp4"
+            },
+            "sync": 0,
+            "versioned_id": "ffmpeg_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Media - Starting Screen": [],
+                "libobs.show_scene_item.Media - Starting Screen": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "00-Start",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Media - Starting Screen",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.zzCam01": [],
+                "libobs.hide_scene_item.zzOverlayMain": [],
+                "libobs.show_scene_item.zzCam01": [],
+                "libobs.show_scene_item.zzOverlayMain": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "SingleCam01",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 7,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "zzCam01",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "zzOverlayMain",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        }
+    ],
+    "transition_duration": 300,
+    "transitions": []
+}
