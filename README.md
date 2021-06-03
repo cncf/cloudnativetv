@@ -6,6 +6,7 @@ The CNCF's definitive interactive media experience for anyone wanting to learn, 
 CloudNative.tv is currently community run shows livestreaming on Twitch with a variety of hosts show casing different aspects of the cloud native community.
 
 - [Meetings](#meetings)
+- [FAQ](https://github.com/cncf/cloudnativetv/blob/main/FAQ.md)
 - [CloudNative.tv Operations](#cloudnativetv-operations)
 - [Launch Shows](#launch-shows)
 - [Communicating with Us](#communicating-with-us)
