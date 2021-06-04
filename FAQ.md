@@ -32,4 +32,4 @@ Sandbox projects are not eligible to have their own show on CloudNative.tv focus
 
 ***What if I don't have the technical or production skills required to do an ongoing show?***
 
-During the show selection process the co-chairs and members of the group will work with the host to identify any gaps that a potential host may have. If the show is approved, they assist the showrunner with training on how to produce, funding, and other requirements.
+During the show selection process the co-chairs and members of the group will work with the host to identify any gaps that a potential host may have. If the show is approved, they assist the showrunner with training on how to produce, funding, and other requirements. we will also provide access to streaming software such as Restream Studio or Streamyard to aid in the onboarding.
