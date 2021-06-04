@@ -31,4 +31,5 @@ Great! Please visit the [CloudNative.tv GitHub](https://github.com/cncf/cloudnat
 Sandbox projects are not eligible to have their own show on CloudNative.tv focused on the project, however contributors to a sandbox project can be a guest on a show if invited by a show host or they can host a show on a different subject.
 
 ***What if I don't have the technical or production skills required to do an ongoing show?***
+
 During the show selection process the co-chairs and members of the group will work with the host to identify any gaps that a potential host may have. If the show is approved, they assist the showrunner with training on how to produce, funding, and other requirements.
