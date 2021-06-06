@@ -8,7 +8,5 @@ Found at [scene-collections/Cloud_Native_TV.json](scene-collections/Cloud_Native
 
 > This was created on a Windows machine. You can search and replace the directories/paths in the .json to match your own directory structure if on Mac / Linux.
 
-* Create a directory `c:\obs\cloud-native-tv`
-* Download the google drive OBS folder into `c:\obs\cloud-native-tv`
-* Download the google drive overlays folder to `c:\obs\cloud-native-tv\assets`
-* import `c:\obs\cloud-native-tv\scenes\Cloud_Native_TV.json` into OBS
+* Clone this repo to `c:\obs`
+* import `c:\obs\cloud-native-tv\scenes\CNCF-tv-default.json` into OBS
