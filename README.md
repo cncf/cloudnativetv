@@ -36,7 +36,7 @@ The Special Interest Group meets biweekly on Tuesday at
 ## Launch Shows
 - [/lgtm](./shows/lgtm.md)
 - [100 days](./shows/100days.md)
-- [Awesome Certs](./shows/awesomecerts.md)
+- [Certs Magic](./shows/certsmagic.md)
 - [CNCFaceoff](./shows/cncfaceoff.md)
 - [Fields Tested](./shows/fieldstested.md)
 - [Kat's Classroom](./shows/kat.md)
