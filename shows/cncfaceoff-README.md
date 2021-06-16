@@ -28,7 +28,7 @@ Teams will be made up of three players. If you have a team ready to go (three pe
 
 Note: Submitting this form is not a guarantee of appearance on the show - we will follow up with each team to confirm and to schedule your episode!
 
-Questions? Contact @mattstratton on Twitter or email cncfaceoff@mattstratton.com.
+Questions? Contact [@mattstratton](https://twitter.com/mattstratton) on Twitter or email matty@cncfaceoff.tv.
 
 ### Artist's Rendering of the CNCFaceOff Cup
 
