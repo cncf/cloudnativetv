@@ -5,7 +5,8 @@
 *   **Content Guidelines and Recommendations**
     *   Showrunner is responsible for the creation of all **original content** as well as for coordinating the participation of all guests.
     *   The showrunner should reinforce the Cloud Native TV brand as well as call out for Cloud Native TV subscription including notifications throughout the show at least three times during each stream (at the beginning, middle and end of the show)
-    *   The showrunner should refer to the next show in the schedule at the end of his or her show.
+    *   The showrunner should refer to the next show in the schedule at the end of their show.
+    *   If you use Twitter, tweet about your show! If you see another showrunner tweeting about their show, show them some support with a retweet.
     *   Sample scripts will be provided by the Cloud Native TV maintainers for reference of callouts, brand reinforcement and show references.
     *   <span style="text-decoration:underline;">Content Recommendations</span>
         *   **Engage your audience**. Respond, welcome and encourage discussion in the chat. Make everyone feel welcome.
