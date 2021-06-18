@@ -52,6 +52,9 @@
   - Restream Studio is a brower based stremaing platform that is very similar to Streamyard
   - You can find full documentation for it [here](https://restream.io/blog/restream-studio-everything-you-need-to-know/) or more info in the [help center](https://support.restream.io/en/collections/1623532-restream-studio)
   - To get access to the CNCF instance, please contact bmulligan@linuxfoundation.org
+  - When broadcasting via Restream Studio:
+    - Before entering the studio, click "Update Titles" to change the name of your stream, e.g., "Cloud Native Classroom - Open Telemetry"
+    - It is also possible to use Restream as an intermediary between OBS and Twitch, so that changing the stream title does not require logging into Twitch. To do that, click RTMP Settings on the right to grab the stream key and RTMP URL you need to add in OBS.
   - You will be able to customize:
     -  add logo or overlay
     -  add/remove guests easily upto 10 and with different screen options
