@@ -11,6 +11,6 @@ app.use("/", jsonGraphQlServer.default(data));
 
 const port = process.env.PORT || 4000;
 
-module.exports = app.listen(port, () =>
+exports.handler = app.listen(port, () =>
   console.log(`Server running on ${port}, http://localhost:${port}`)
 );
