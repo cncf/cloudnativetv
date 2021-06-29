@@ -1,6 +1,6 @@
-import fetch from "sync-fetch";
 import express from "express";
-import jsonGraphQlServer from "json-graphql-server";
+import fetch from "sync-fetch";
+import jsonGraphqlExpress from "json-graphql-server";
 import serverless from "serverless-http";
 
 const data = fetch(
@@ -9,8 +9,9 @@ const data = fetch(
 
 const app = express();
 
-app.use("/", jsonGraphQlServer(data));
+const functionName = "serverless-http";
 
-const port = process.env.PORT || 4000;
+app.use("/", jsonGraphqlExpress(data));
+console.log(data);
 
 exports.handler = serverless(app);
