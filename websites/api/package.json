@@ -9,6 +9,7 @@
         "glob": "^7.1.6",
         "js-yaml": "^4.0.0",
         "json-graphql-server": "^2.2.0",
+        "serverless-http": "^2.7.0",
         "sync-fetch": "^0.3.0"
     }
 }
