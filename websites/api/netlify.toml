@@ -1,2 +1,6 @@
+[functions]
+directory = "functions"
+node_bundler = "esbuild"
+
 [build]
 functions = "functions-build"
