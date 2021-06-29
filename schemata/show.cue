@@ -11,6 +11,7 @@
 		}
 
 		title:             string @template("My Show")
+		body?:             string
         host_id:           string
 	}
 

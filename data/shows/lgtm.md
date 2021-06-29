@@ -1,5 +1,5 @@
 ---
-name: /lgtm
+title: /lgtm
 host_id: rawkode
 ----
 

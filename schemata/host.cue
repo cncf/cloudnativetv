@@ -11,6 +11,7 @@
 		}
 
 		name:             string @template("Your Name")
+		body?:            string
         github:           string
         twitter:          string
 	}
