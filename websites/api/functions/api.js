@@ -1,15 +1,16 @@
-const fetch = require("sync-fetch");
-const jsonGraphQlServer = require("json-graphql-server");
-const serverless = require("serverless-http");
+import fetch from "sync-fetch";
+import express from "express";
+import jsonGraphQlServer from "json-graphql-server";
+import serverless from "serverless-http";
 
 const data = fetch(
   "https://github.com/cncf/cloudnativetv/releases/download/blox/data.json"
 ).json();
 
-const app = require("express")();
+const app = express();
 
-app.use("/", jsonGraphQlServer.default(data));
+app.use("/", jsonGraphQlServer(data));
 
 const port = process.env.PORT || 4000;
 
-module.exports.handler = serverless(app);
+exports.handler = serverless(app);
