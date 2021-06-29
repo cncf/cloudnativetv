@@ -1,0 +1,27 @@
+name: Build and Release Show Data
+on:
+  push:
+    paths:
+      - .github/**
+      - data/**
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Show Data
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Build & Validate Blox Data
+        id: build
+        uses: cueblox/github-action@v0.0.9
+
+      - uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "blox"
+          prerelease: true
+          title: "Show Data"
+          files: |
+            _build/data.json
