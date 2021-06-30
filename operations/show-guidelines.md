@@ -5,7 +5,8 @@
 *   **Content Guidelines and Recommendations**
     *   Showrunner is responsible for the creation of all **original content** as well as for coordinating the participation of all guests.
     *   The showrunner should reinforce the Cloud Native TV brand as well as call out for Cloud Native TV subscription including notifications throughout the show at least three times during each stream (at the beginning, middle and end of the show)
-    *   The showrunner should refer to the next show in the schedule at the end of his or her show.
+    *   The showrunner should refer to the next show in the schedule at the end of their show.
+    *   If you use Twitter, tweet about your show! If you see another showrunner tweeting about their show, show them some support with a retweet.
     *   Sample scripts will be provided by the Cloud Native TV maintainers for reference of callouts, brand reinforcement and show references.
     *   <span style="text-decoration:underline;">Content Recommendations</span>
         *   **Engage your audience**. Respond, welcome and encourage discussion in the chat. Make everyone feel welcome.
@@ -52,6 +53,9 @@
   - Restream Studio is a brower based stremaing platform that is very similar to Streamyard
   - You can find full documentation for it [here](https://restream.io/blog/restream-studio-everything-you-need-to-know/) or more info in the [help center](https://support.restream.io/en/collections/1623532-restream-studio)
   - To get access to the CNCF instance, please contact bmulligan@linuxfoundation.org
+  - When broadcasting via Restream Studio:
+    - Before entering the studio, click "Update Titles" to change the name of your stream, e.g., "Cloud Native Classroom - Open Telemetry"
+    - It is also possible to use Restream as an intermediary between OBS and Twitch, so that changing the stream title does not require logging into Twitch. To do that, click RTMP Settings on the right to grab the stream key and RTMP URL you need to add in OBS.
   - You will be able to customize:
     -  add logo or overlay
     -  add/remove guests easily upto 10 and with different screen options
