@@ -32,3 +32,7 @@ View the "Recurring" episode video and do not set up any recurrence.
 When you want to reserve a weekly, fortnightly, or monthly slot; you can do as the video shows. Recurring slots will be reviewed by the working group and slots you are unavailable to make should be freed and announced to the working group ASAP. Any missed slots, without notifications, will be reviewed by the working group and your recurring slot may be freed for others.
 
 [Scheduling a Recurring Episode](https://i.rawko.de/QwuER7oQ)
+
+### Missing a Show
+
+In the case that a Showrunner is unable to hold their show at the scheduled time, they should inform the Leadership Committee (Co-Chairs and CNCF Liason) with as much advance notice as possible so that other shows can be scheduled or assistance can be provided, as needed. If a Showrunner misses 3 or more shows out of the previous 5 scheduled air dates without notice or extenuating circumstances, the committee may remove the show from the schedule and replace it with another program, to ensure schedule continuity for the community.
