@@ -33,3 +33,17 @@ Questions? Contact [@mattstratton](https://twitter.com/mattstratton) on Twitter 
 ### Artist's Rendering of the CNCFaceOff Cup
 
 ![](cncfaceoff-cup.jpg)
+
+## Schedule and Results
+
+| Episode             | Date      | Team 1    | Team 2         | Winner         |
+|---------------------|-----------|-----------|----------------|----------------|
+| Round 1                   | 7/14/2021 | ~~ContribEx~~ | Rogues Gallery | Rogues Gallery |
+| Round 2                   | 7/28/2021 | DevOops   | Tinkerbell     |                |
+| Round 3                   | 8/11/2021 | Team 5    | Team 6         |                |
+| Round 4                   | 8/25/2021 | Team 7    | Team 8         |                |
+| Semi-Finals Round 1 | 9/8/2021  |           |                |                |
+| Semi-Finals Round 2 | 9/22/2021 |           |                |                |
+| Finals              | 8/6/2021  |           |                |                |
+
+![](CNCFaceOff-bracket.jpg)
