@@ -1,6 +1,6 @@
 # CNCFaceOff
 
-This is a live-streamed game show, similar to [Family Feud](https://en.wikipedia.org/wiki/Family_Feud), but with cloud-native/tech type questions. The game will stream live other Wednesday (starting 16 June) at 20:00 UTC on https://www.twitch.tv/cloudnativefdn. Each "season" will have 8 teams, who will compete with each other in an ongoing bracket, with the final winner being crowned champion. The winning team is awarded a huge amount of bragging rights, as well as the CNCFaceOff Cup. We can't show you what the Cup will look like, but trust us, it will be awesome. 
+This is a live-streamed game show, similar to [Family Feud](https://en.wikipedia.org/wiki/Family_Feud), but with cloud-native/tech type questions. The game will stream live other Wednesday (starting 14 July) at 20:00 UTC on https://www.twitch.tv/cloudnativefdn. Each "season" will have 8 teams, who will compete with each other in an ongoing bracket, with the final winner being crowned champion. The winning team is awarded a huge amount of bragging rights, as well as the CNCFaceOff Cup. We can't show you what the Cup will look like, but trust us, it will be awesome. 
 
 The show is hosted by [Matt Stratton](https://twitter.com/mattstratton), who is also one of the creator/hosts of [DevOps Party Games](https://devopspartygames.com).
 
