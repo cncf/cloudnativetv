@@ -44,6 +44,6 @@ Questions? Contact [@mattstratton](https://twitter.com/mattstratton) on Twitter 
 | Round 4                   | 8/25/2021 | Team 7    | Team 8         |                |
 | Semi-Finals Round 1 | 9/8/2021  |           |                |                |
 | Semi-Finals Round 2 | 9/22/2021 |           |                |                |
-| Finals              | 8/6/2021  |           |                |                |
+| Finals              | 10/6/2021  |           |                |                |
 
 ![](CNCFaceOff-bracket.jpg)
