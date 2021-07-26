@@ -1,8 +1,17 @@
 # Project stages
 
+- Bootstrap
 - Sandbox
 - Incubating
 - Graduated
+
+### Bootstrap
+
+During bootstrap, all shows must:
+
+- Stream once every 2 weeks on CTV
+
+In the case that a Showrunner is unable to hold their show at the scheduled time, they should inform the Leadership Committee (Co-Chairs and CNCF Liason) with as much advance notice as possible so that other shows can be scheduled or assistance can be provided, as needed. If a Showrunner misses 3 or more shows out of the previous 5 scheduled air dates without notice or extenuating circumstances, the committee may remove the show from the schedule and replace it with another program, to ensure schedule continuity for the community.
 
 ### Sandbox
 
