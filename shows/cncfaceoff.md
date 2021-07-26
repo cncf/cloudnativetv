@@ -38,7 +38,7 @@ Questions? Contact [@mattstratton](https://twitter.com/mattstratton) on Twitter 
 
 | Episode             | Date      | Team 1    | Team 2         | Winner         |
 |---------------------|-----------|-----------|----------------|----------------|
-| Round 1                   | 7/14/2021 | ~~ContribEx~~ | Rogues Gallery | Rogues Gallery |
+| [Round 1](https://www.youtube.com/watch?v=wKcPQoIw6dQ)                   | 7/14/2021 | ~~ContribEx~~ | Rogues Gallery | Rogues Gallery |
 | Round 2                   | 7/28/2021 | DevOops   | Tinkerbell     |                |
 | Round 3                   | 8/11/2021 | Team 5    | Team 6         |                |
 | Round 4                   | 8/25/2021 | Team 7    | Team 8         |                |
