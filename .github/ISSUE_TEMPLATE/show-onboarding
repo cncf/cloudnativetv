@@ -1,9 +1,9 @@
 ---
 name: Show Onboarding
 about: show onboarding
-title: "[SHOW ONBOARDING] show"
-labels: 
-assignees: xmulligan, danpopSD
+title: '"[SHOW ONBOARDING] show"'
+labels: Show Onboarding
+assignees: 'xmulligan, danpopSD'
 
 ---
 
