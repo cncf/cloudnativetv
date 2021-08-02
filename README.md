@@ -33,9 +33,8 @@ The Special Interest Group meets biweekly on Tuesday at
 - [Archived Content](https://github.com/cncf/cloudnativetv/blob/main/operations/archived-content.md)
 - [Contributing](https://github.com/cncf/cloudnativetv/blob/main/CONTRIBUTING.md)
 
-## Launch Shows
+## Current Shows
 - [/lgtm](./shows/lgtm.md)
-- [100 days](./shows/100days.md)
 - [Certs Magic](./shows/certsmagic.md)
 - [CNCFaceoff](./shows/cncfaceoff.md)
 - [Fields Tested](./shows/fieldstested.md)
@@ -44,7 +43,11 @@ The Special Interest Group meets biweekly on Tuesday at
 - [Solid State](./shows/solidstate.md)
 - [Spotlight Live](./shows/spotlight.md)
 - [This Week in Cloud Native](./shows/thisweek.md)
-
+  
+## Retired Shows
+- [100 days](./shows/100days.md)
+  
+  
 ## Communicating with Us
 
 Anyone is welcome to join our open discussions of
@@ -65,16 +68,18 @@ shows and share news related to CloudNative.tv
 ### CNCF Guidance
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 
-### Bootstrap SIG members
+### SIG members
 
 - David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Weaveworks
-- Anais Urlichs ([@AnaisUrlichs](https://github.com/AnaisUrlichs)), Civo
 - Matt Stratton ([@mattstratton](https://github.com/mattstratton)), Pulumi
 - Saiyam Pathak ([@saiyam1814](https://github.com/saiyam1814)), Civo
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
 - Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
 - Paul Czarkowski ([@paulczar](github.com/users/paulczar)), Red Hat
+  
+## Emeritus SIG members
+- Anais Urlichs ([@AnaisUrlichs](https://github.com/AnaisUrlichs)), Civo
