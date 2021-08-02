@@ -14,6 +14,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   * [LGTM](#lgtm)
   * [Solid State](#solid-state)
   * [Spotlight Live](#spotlight-live)
+  * [This Week in Cloud Native](#this-week-in-cloud-native)
 * Retired Shows
   * [100 Days](#100-days)
 
@@ -151,6 +152,21 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   <tr>
    <td><img src="show-logos/spotlight-live/cncf-spotlight-live.png" width="200"></td>
    <td><img src="show-logos/spotlight-live/cncf-spotlight-live.svg" width="200"></td>
+  </tr>
+</table>
+
+#### This Week in Cloud Native
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="" width="200"></td>
+   <td><img src="" width="200"></td>
   </tr>
 </table>
 
