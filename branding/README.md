@@ -22,7 +22,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
    </td>
   </tr>
   <tr>
-   <td><img src="cloudnativetv/cloud-native-tv-logo(1).png" width="200"></td>
+   <td><img src="cloudnativetv/cloud-native-tv-logo (1).png" width="200"></td>
    <td><img src="cloudnativetv/cloud-native-tv-logo.svg" width="200"></td>
   </tr>
 </table>
