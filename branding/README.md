@@ -7,6 +7,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
 * [Current Shows](#current-shows)
   * [CloudNative.tv](#cloudnativetv)
   * [Cloud Native Classroom](#cloud-native-classroom)
+  * [LGTM](#lgtm)
   * [Solid State](#solid-state)
 
 ### Current Shows
@@ -21,7 +22,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
    </td>
   </tr>
   <tr>
-   <td><img src="cloudnativetv/cloud-native-tv-logo.png" width="200"></td>
+   <td><img src="cloudnativetv/cloud-native-tv-logo(1).png" width="200"></td>
    <td><img src="cloudnativetv/cloud-native-tv-logo.svg" width="200"></td>
   </tr>
 </table>
@@ -38,6 +39,21 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   <tr>
    <td><img src="show-logos/cloud-native-classroom/cncf-Kat.png" width="200"></td>
    <td><img src="show-logos/cloud-native-classroom/cncf-Kat.svg" width="200"></td>
+  </tr>
+</table>
+
+#### LGTM
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/LGTM/cncf-logo-lgtm.png" width="200"></td>
+   <td><img src="show-logos/LGTM/cncf-logo-lgtm.svg" width="200"></td>
   </tr>
 </table>
 
