@@ -10,8 +10,10 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   * [Cloud Native Classroom](#cloud-native-classroom)
   * [Cloud Native LatinX](cloud-native-latinx)
   * [CNCFaceOff](#cncfaceoff)
+  * [Fields Tested](#fields-tested)
   * [LGTM](#lgtm)
   * [Solid State](#solid-state)
+  * [Spotlight Live](#spotlight-live)
 
 #### CloudNative.tv
 
@@ -90,6 +92,21 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   </tr>
 </table>
 
+#### Fields Tested
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/fields-tested/cncf-logos-fieldstested.png" width="200"></td>
+   <td><img src="show-logos/fields-tested/cncf-logos-fieldstested.svg" width="200"></td>
+  </tr>
+</table>
+
 #### LGTM
 
 <table>
@@ -120,5 +137,34 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   </tr>
 </table>
 
+#### Spotlight Live
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/spotlight-live/cncf-spotlight-live.png" width="200"></td>
+   <td><img src="show-logos/spotlight-live/cncf-spotlight-live.svg" width="200"></td>
+  </tr>
+</table>
+
 ### Retired Shows
 
+#### 100 Days
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/100-days/cncf-100days.png" width="200"></td>
+   <td><img src="show-logos/100-days/cncf-100days.svg" width="200"></td>
+  </tr>
+</table>
