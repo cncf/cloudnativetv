@@ -165,8 +165,8 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
    </td>
   </tr>
   <tr>
-   <td><img src="" width="200"></td>
-   <td><img src="" width="200"></td>
+   <td><img src="show-logos/this-week-in-cloud-native/duffie.png" width="200"></td>
+   <td><img src="show-logos/this-week-in-cloud-native/cncf-thisweekincloudnative_color.svg" width="200"></td>
   </tr>
 </table>
 
