@@ -3,7 +3,8 @@ name: Show Onboarding
 about: show onboarding
 title: '"[SHOW ONBOARDING] show"'
 labels: Show Onboarding
-assignees: 'xmulligan, danpopSD'
+assignees: ''
+
 ---
 
 Welcome to CloudNative.tv show Onboarding!
