@@ -5,7 +5,9 @@ In this repo, we have artwork in standard formats for the CloudNative.tv shows. 
 You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF [store](https://store.cncf.io/). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
 
 * [Current Shows](#current-shows)
-  * [CloudNative.tv](#cloudnative.tv)
+  * [CloudNative.tv](#cloudnativetv)
+  * [Cloud Native Classroom](#cloud-native-classroom)
+  * [Solid State](#solid-state)
 
 ### Current Shows
 
