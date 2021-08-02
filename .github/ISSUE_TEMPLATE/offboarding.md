@@ -1,9 +1,9 @@
 ---
 name: Show Offboarding
 about: show offboarding
-title: "[SHOW OFFBOARDING] show"
+title: '"[SHOW OFFBOARDING] show"'
 labels: 
-assignees: xmulligan, danpopSD
+assignees: ''
 
 ---
 
@@ -18,3 +18,6 @@ From the project side, provide the following information:
 - [ ] Add your headshot to the [headshot folder](https://github.com/cncf/cloudnativetv/tree/main/headshots)
 - [ ] Moved to emeritus SIG member in the README
 - [ ] Logo moved to emeritus in the [branding repo](https://github.com/cncf/cloudnativetv/tree/main/branding)
+
+Things that the CNCF will do:
+- [ ] Remove show host from Github repo
