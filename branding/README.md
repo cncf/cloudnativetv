@@ -4,13 +4,14 @@ In this repo, we have artwork in standard formats for the CloudNative.tv shows. 
 
 You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF [store](https://store.cncf.io/). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
 
+* [CloudNative.tv](#cloudnativetv)
 * [Current Shows](#current-shows)
-  * [CloudNative.tv](#cloudnativetv)
+  * [Certs Magic](#certs-magic)
   * [Cloud Native Classroom](#cloud-native-classroom)
+  * [Cloud Native LatinX](cloud-native-latinx)
+  * [CNCFaceOff](#cncfaceoff)
   * [LGTM](#lgtm)
   * [Solid State](#solid-state)
-
-### Current Shows
 
 #### CloudNative.tv
 
@@ -27,6 +28,23 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   </tr>
 </table>
 
+### Current Shows
+
+#### Certs Magic
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/certs-magic/cncf-logos-certsmagic (1).png" width="200"></td>
+   <td><img src="show-logos/certs-magic/cncf-logos-certsmagic.svg" width="200"></td>
+  </tr>
+</table>
+
 #### Cloud Native Classroom
 
 <table>
@@ -39,6 +57,36 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   <tr>
    <td><img src="show-logos/cloud-native-classroom/cncf-Kat.png" width="200"></td>
    <td><img src="show-logos/cloud-native-classroom/cncf-Kat.svg" width="200"></td>
+  </tr>
+</table>
+
+#### Cloud Native LatinX
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/cloud-native-latinx/cncf-latinx.png" width="200"></td>
+   <td><img src="show-logos/cloud-native-latinx/cncf-latinx.svg" width="200"></td>
+  </tr>
+</table>
+
+#### CNCFaceOff
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/CNCFaceOff/cncf-faceoff-logo.png" width="200"></td>
+   <td><img src="show-logos/CNCFaceOff/cncf-faceoff-logo.svg" width="200"></td>
   </tr>
 </table>
 
