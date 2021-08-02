@@ -13,7 +13,7 @@ We would like to complete offboarding within two weeks of acceptance.
 
 From the show side, please update the following information:
 - [ ] Moved to emeritus SIG member and retired show in the README
-- [ ] Logo moved to emeritus in the [branding repo](https://github.com/cncf/cloudnativetv/tree/main/branding)
+- [ ] Logo moved to retired in the [branding repo](https://github.com/cncf/cloudnativetv/tree/main/branding)
 
 Things that the CNCF will do:
 - [ ] Remove show host from Github repo
