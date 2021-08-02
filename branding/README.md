@@ -14,6 +14,8 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   * [LGTM](#lgtm)
   * [Solid State](#solid-state)
   * [Spotlight Live](#spotlight-live)
+* Retired Shows
+  * [100 Days](#100-days)
 
 #### CloudNative.tv
 
