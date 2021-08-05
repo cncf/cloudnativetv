@@ -6,6 +6,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
 
 * [CloudNative.tv](#cloudnativetv)
 * [Current Shows](#current-shows)
+  * [Art as Code](#art-as-code)
   * [Certs Magic](#certs-magic)
   * [Cloud Native Classroom](#cloud-native-classroom)
   * [Cloud Native LatinX](cloud-native-latinx)
@@ -34,6 +35,21 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
 </table>
 
 ### Current Shows
+
+#### Art as Code
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/art-as-code/art-as-code.png" width="200"></td>
+   <td><img src="show-logos/art-as-code/art-as-code.svg" width="200"></td>
+  </tr>
+</table>
 
 #### Certs Magic
 
