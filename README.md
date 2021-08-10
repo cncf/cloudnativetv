@@ -79,6 +79,7 @@ shows and share news related to CloudNative.tv
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
 - Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
+- Diane Mueller ([@dmueller2001](https://github.com/dmueller2001)), Red Hat  
 - Paul Czarkowski ([@paulczar](github.com/users/paulczar)), Red Hat
   
 ## Emeritus SIG members
