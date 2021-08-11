@@ -41,10 +41,10 @@ Questions? Contact [@mattstratton](https://twitter.com/mattstratton) on Twitter 
 | [Round 1](https://www.youtube.com/watch?v=wKcPQoIw6dQ)                   | 7/14/2021 | ~~ContribEx~~ | Rogues Gallery | Rogues Gallery |
 | Round 2                   | 7/28/2021 | ~~DevOops~~   | Tinkerbell     |    Tinkerbell            |
 | Round 3                   | 8/11/2021 | The SRE Street Band    | The other people        |                |
-| Round 4                   | 8/25/2021 | Team 7    | Team 8         |                |
-| Semi-Finals Round 1 | 9/8/2021  | Rogues Gallery           |    Tinkerbell            |                |
-| Semi-Finals Round 2 | 9/22/2021 |   TBD        |    TBD            |                |
-| Finals              | 10/6/2021  |     TBD      |       TBD         |                |
+| Round 4                   | 9/8/2021 | Team 7    | Team 8         |                |
+| Semi-Finals Round 1 | 9/22/2021  | Rogues Gallery           |    Tinkerbell            |                |
+| Semi-Finals Round 2 | 10/6/2021 |   TBD        |    TBD            |                |
+| Finals              | KUBECON WEEK  |     TBD      |       TBD         |                |
 
 [Bracket](https://brackethq.com/b/xkis/)
 ![](CNCFaceOff-bracket.jpg)
