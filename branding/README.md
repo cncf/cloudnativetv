@@ -11,6 +11,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   * [Cloud Native Classroom](#cloud-native-classroom)
   * [Cloud Native LatinX](cloud-native-latinx)
   * [CNCFaceOff](#cncfaceoff)
+  * [edYou](#edyou)
   * [Fields Tested](#fields-tested)
   * [LGTM](#lgtm)
   * [Solid State](#solid-state)
@@ -107,6 +108,21 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   </tr>
   <tr>
    <td><img src="show-logos/CNCFaceOff/cncf-faceoff-logo.png" width="200"></td>
+   <td><img src="show-logos/CNCFaceOff/cncf-faceoff-logo.svg" width="200"></td>
+  </tr>
+</table>
+
+#### edYou
+
+<table>
+  <tr>
+   <td>PNG
+   </td>
+   <td>SVG
+   </td>
+  </tr>
+  <tr>
+   <td><img src="show-logos/edYOU/edYou-logo.png" width="200"></td>
    <td><img src="show-logos/CNCFaceOff/cncf-faceoff-logo.svg" width="200"></td>
   </tr>
 </table>
