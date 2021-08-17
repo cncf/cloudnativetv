@@ -78,7 +78,7 @@ shows and share news related to CloudNative.tv
 - Saiyam Pathak ([@saiyam1814](https://github.com/saiyam1814)), Civo
 - Bill Mulligan ([@xmulligan](https://github.com/xmulligan)), CNCF
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
-- Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
+- Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Civo
 - Paul Czarkowski ([@paulczar](github.com/users/paulczar)), Red Hat
   
 ## Emeritus SIG members
