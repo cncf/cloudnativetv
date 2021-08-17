@@ -123,7 +123,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   </tr>
   <tr>
    <td><img src="show-logos/edYOU/edYou-logo.png" width="200"></td>
-   <td><img src="show-logos/edYou/edYou-logo.svg" width="200"></td>
+   <td><img src="show-logos/edYOU/edYou-logo.svg" width="200"></td>
   </tr>
 </table>
 
