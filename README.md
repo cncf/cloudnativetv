@@ -34,12 +34,13 @@ The Special Interest Group meets biweekly on Tuesday at
 - [Contributing](https://github.com/cncf/cloudnativetv/blob/main/CONTRIBUTING.md)
 
 ## Current Shows
-- [/lgtm](./shows/lgtm.md)
 - [Certs Magic](./shows/certsmagic.md)
+- [.edYOU](./shows/edYOU.md)
 - [CNCFaceoff](./shows/cncfaceoff.md)
 - [Fields Tested](./shows/fieldstested.md)
 - [Kat's Classroom](./shows/kat.md)
 - [LatinX](./shows/latinx.md)
+- [/lgtm](./shows/lgtm.md)
 - [Solid State](./shows/solidstate.md)
 - [Spotlight Live](./shows/spotlight.md)
 - [This Week in Cloud Native](./shows/thisweek.md)
