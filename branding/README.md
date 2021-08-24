@@ -98,7 +98,7 @@ You can find t-shirts, hoodies and stickers for CloudNative.tv shows at the CNCF
   </tr>
 </table>
 
-#### Cloud Native LatinX
+#### Cloud Next
 
 <table>
   <tr>
