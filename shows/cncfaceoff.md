@@ -48,3 +48,9 @@ Questions? Contact [@mattstratton](https://twitter.com/mattstratton) on Twitter 
 
 [Bracket](https://brackethq.com/b/xkis/)
 ![](CNCFaceOff-bracket.jpg)
+
+## Host
+Matt Stratton [@mattstratton](https://twitter.com/mattstratton)
+
+## Show Type
+Game Show
