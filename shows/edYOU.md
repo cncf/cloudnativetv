@@ -12,7 +12,7 @@ A livestream series to get more young people involved in the CNCF ecosystem. Her
 Students will get information regarding the CNCF world and how they can get involved in it. They have this misconception that it's not beginner friendly. There is also lack of awareness about these Open Source programs. They'll also get a chance to ask their questions live and also showcase the work they are doing.
 
 ## Host
-Kunal Kushwaha
+Kunal Kushwaha [@kunalstwt](https://twitter.com/kunalstwt)
 
 ## Show Type
 Mix
