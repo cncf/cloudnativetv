@@ -8,10 +8,10 @@
 <h2 align="center"> Description</h2>
 
 There are lots of folks that bring creative elements to their work.
-And there are more ways to contribute to the tech community that just through code.
+And there are more ways to contribute to the tech community than just through code.
 Our mission is to give the humans of tech a way to share their art, their hobby, or their craft.
-We believe that art and code belong together and that the diverse communities of tech are filled with highly
-creative and amazing people that can contribute so much more than code. 
+We believe that art and code belong together; that the diverse communities of tech are filled with highly
+creative and amazing people that can contribute much more than code. 
 
 <h2 align="center"> Hosts </h2>
 
