@@ -2,7 +2,7 @@
 <h1 align="center"> Art as Code </h1>
 
 <p align="center">
- <img src="https://github.com/cncf/cloudnativetv/blob/main/shows/AAC_LOGO.png" alt="art as code logo" width="200px" height="200px"/>
+ <img src="https://github.com/cncf/cloudnativetv/blob/main/branding/show-logos/art-as-code/art-as-code.png" alt="art as code logo" width="200px" height="200px"/>
   </p>
   
 <h2 align="center"> Description</h2>
