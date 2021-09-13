@@ -15,8 +15,8 @@ creative and amazing people that can contribute much more than code.
 
 <h2 align="center"> Hosts </h2>
 
-<h5 align="center"> Bart Farrell </h5>
-<h5 align="center"> Nellie Tobey </h5>
+<h5 align="center"> Bart Farrell <a href="https://twitter.com/birthmarkbart">@birthmarkbart</a> </h5>
+<h5 align="center"> Nellie Tobey <a href="https://twitter.com/nelliesnoodles">@nelliesnoodles</a> </h5>
 
 <h2 align="center"> Show type </h2>
 
