@@ -73,7 +73,7 @@ shows and share news related to CloudNative.tv
 ### SIG members
 
 - Bart Farrell ([@birthmarkbart](@https://github.com/birthmarkbart)), Data on Kubernetes
-  David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
+- David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Weaveworks
