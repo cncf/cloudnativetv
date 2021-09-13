@@ -34,6 +34,7 @@ The Special Interest Group meets biweekly on Tuesday at
 - [Contributing](https://github.com/cncf/cloudnativetv/blob/main/CONTRIBUTING.md)
 
 ## Current Shows
+- [Art as Code](./shows/ArtAsCode.md)
 - [Certs Magic](./shows/certsmagic.md)
 - [.edYOU](./shows/edYOU.md)
 - [CNCFaceoff](./shows/cncfaceoff.md)
@@ -71,7 +72,8 @@ shows and share news related to CloudNative.tv
 
 ### SIG members
 
-- David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
+- Bart Farrell ([@birthmarkbart](@https://github.com/birthmarkbart)), Data on Kubernetes
+  David McKay ([@rawkode](https://github.com/rawkode)), Equinix Metal
 - POP ([@danpopsd](https://github.com/danpopsd)), Sysdig
 - Kat Cosgrove ([@katcosgrove](https://github.com/katcosgrove)) , jfrog
 - Leonardo Murillo ([@murillodigital](https://github.com/murillodigital)), Weaveworks
